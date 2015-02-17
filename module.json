@@ -1,0 +1,15 @@
+{
+  "id": "contacts",
+  "name": "Contacts Module",
+  "description": "Module allows to search contacts in the sidebar",
+  "keywords": [
+    "contacts",
+    "search",
+    "widget"
+  ],
+  "version": "0.0.1",
+  "humhub": {
+    "minVersion": "0.6"
+  },
+  "screenshots": ["assets/screen1.png"]
+}
